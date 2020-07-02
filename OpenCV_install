@@ -155,6 +155,7 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
 -D BUILD_NEW_PYTHON_SUPPORT=ON \
 -D OPENCV_GENERATE_PKGCONFIG=ON ../
 
+
 4-7. 다음처럼 cmake 실행 중에  추가적인 다운로드가  있습니다.  라즈베리파이에 인터넷이 연결된 상태에서 진행하세요..
 -- xfeatures2d/boostdesc: Download: boostdesc_bgm.i
 -- xfeatures2d/boostdesc: Download: boostdesc_bgm_bi.i
