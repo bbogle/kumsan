@@ -1,0 +1,21 @@
+라즈베리파이에서 한글이 깨질 때 
+$ sudo apt-get install ibus 
+$ sudo apt-get install ibus-hangul
+$ sudo apt-get install fonts-unfonts-core
+$ sudo reboot
+
+* 라즈베리파이의 WiFi 설정
+WiFi Country Code 는 GB Britain(UK)로 설정해야 WiFi가 잡힌다. 
+
+키보드 레이아웃 선택
+Change Keyboard Layout 선택,
+
+★ Generic 105-key(lntl) PC 
+    -> Other 
+    ->  Korean-Korean(101/04 key compatible)
+    -> The default for the keyboard layout 
+    -> No compose key 
+    -> Ok
+    -> No
+    
+
