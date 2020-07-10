@@ -18,4 +18,6 @@ opencv에서 라즈베리파이 카메라모듈에 접근할 수 있도록 해�
 ~$ vcgencmd get_camera
 명령을 입력해서 두개 다 값이 1이 나오는지 확인한다. 
 
-
+참고사이트
+https://076923.github.io/posts/#Python-OpenCV
+https://webnautes.tistory.com/category/OpenCV/OpenCV%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
