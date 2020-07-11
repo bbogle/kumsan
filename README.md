@@ -19,9 +19,12 @@ opencv에서 라즈베리파이 카메라모듈에 접근할 수 있도록 해�
 명령을 입력해서 두개 다 값이 1이 나오는지 확인한다. 
 
 라즈베리파이에서 카메라모듈 사용하기
+
 https://www.evernote.com/shard/s207/sh/b034fcda-efa4-43f6-b947-ab00d9099495/6bb6bd2434099f8b8d26bb1f00726808
 
+OPENCV 연습
 
+https://www.evernote.com/shard/s207/sh/de165e6c-adc0-428b-8ecc-f00e19d86787/11ee1dcf7d114845ff5ac0db315f8cce
 
 참고사이트
 https://076923.github.io/posts/#Python-OpenCV
